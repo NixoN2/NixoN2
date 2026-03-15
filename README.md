@@ -18,9 +18,15 @@ browse csrankings, ai-synthesized profiles, semantic search over research areas
 
 ---
 
-**stack**
+**currently building with**
 
-`go` &nbsp;`python` &nbsp;`claude` &nbsp;`docker` &nbsp;`kubernetes` &nbsp;`aws`
+![Claude](https://img.shields.io/badge/Claude-black?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
