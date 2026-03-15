@@ -1,4 +1,4 @@
-### hey, i'm andrei 👋
+### hey, i'm Andrei 👋
 
 cs @ eth zürich &nbsp;·&nbsp; security engineering @ getyourguide &nbsp;·&nbsp; zürich
 
