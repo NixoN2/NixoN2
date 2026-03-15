@@ -32,7 +32,7 @@ browse csrankings, ai-synthesized profiles, semantic search over research areas
 
 <a href="https://github.com/NixoN2">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=NixoN2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NixoN2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NixoN2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook" />
 </a>
 
 ---
